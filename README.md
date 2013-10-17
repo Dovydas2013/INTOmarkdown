@@ -47,11 +47,9 @@ Here is a screenshot of my machine running linux. I did not have a chance to tak
 In this part i did not face any difficulties at all. I just typed in the commands provided and after few seconds evertying was ready.
 
 3.
-
-This part also went pretty well. At the beginning, it was relatively hard to work in the linux enviroment, because im so new to it - im very used to windows. Nonetheless, after some research on the common terminal commands and some GIT commands, i started to feel pretty comfortable. Furthermore, i had some hard time in learnig on how to use vim - im so used to nano. Vim seem so new and not so user friendly. Generaly, i dont find it very comfortable to use vim. Also, i would like to point out that, since i was working alone in the group, i did not have any chance of sharing the code with other people. Here is the link to my forket repository: https://github.com/Dovydas2013/INTOPrufa
+This part also went pretty well. At the beginning, it was relatively hard to work in the linux enviroment, because im so new to it - im very used to windows. Nonetheless, after some research on the common terminal commands and some GIT commands, i started to feel pretty comfortable. Furthermore, i had some hard time in learnig on how to use vim - im so used to nano. Vim seem so new and not so user friendly. Generaly, i dont find it very comfortable to use vim. Also, i would like to point out that, since i was working alone in the group, i did not have any chance of sharing the code with other people. Here is the link to my forket repository: https://github.com/Dovydas2013/INTOPrufa. As instructed, there i edited a file called NIM.cpp by adding two cout commands, which print out my name and my RU id.
 
 4.
-
 Vim is a charityware. Its license is GPL-compatible, so it is an open software. Therefore, whenever the code is changed, all changes must be made public. Furthermore, it is possible to donate money and all of the donated money would be send to Uganda to help children there, through ICCF. Link where you can find the vim source code: http://www.vim.org/sources.php. By downloading the source code, you could change it and hence, help in further development of the software.
 
 Git is free software distributed under the terms of the GNU General Public License version 2 (hence it is free and open source). The source code of git could be found here: https://github.com/git/git. Since it is an open source, anyone can join in and help impriving it.
