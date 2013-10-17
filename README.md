@@ -23,7 +23,7 @@ In this part i did not face any difficulties at all. I just typed in the command
 ## 3. Unnið með Git (1. hluti)
 ------------------------------
 
-This part also went pretty well. At the beginning, it was relatively hard to work in the linux enviroment, because im so new to it - im very used to windows. Nonetheless, after some research on the common terminal commands and some GIT commands, i started to feel pretty comfortable. Furthermore, i had some hard time in learnig on how to use vim - im so used to nano. Vim seem so new and not so user friendly. Generaly, i dont find it very comfortable to use vim. Also, i would like to point out that, since i was working alone in the group, i did not have any chance of sharing the code with other people. Here is the link to my forket repository: https://github.com/Dovydas2013/INTOPrufa
+This part also went pretty well. At the beginning, it was relatively hard to work in the linux enviroment, because im so new to it - im very used to windows. Nonetheless, after some research on the common terminal commands and some GIT commands, i started to feel pretty comfortable. Furthermore, i had some hard time in learnig on how to use vim - im so used to nano. Vim seem so new and not so user friendly. Generaly, i dont find it very comfortable to use vim. Also, i would like to point out that, since i was working alone in the group, i did not have any chance of sharing the code with other people. Here is the link to my forket repository: https://github.com/Dovydas2013/INTOPrufa. As instructed, there i edited a file called NIM.cppby adding two cout commands, which were printing out my name and my RU id. 
 
 ## 4. Uppsettur hugbúnaður
 --------------------------
