@@ -32,6 +32,9 @@ Vim is a charityware. Its license is GPL-compatible, so it is an open software. 
 
 Git is free software distributed under the terms of the GNU General Public License version 2 (hence it is free and open source). The source code of git could be found here: https://github.com/git/git. Since it is an open source, anyone can join in and help impriving it.
 
+I would also like to mention mozilla. Mozilla is the custodian of the Mozilla Public License ("MPL"), an open source/free software license. Since it is an open source, anyone can access the source code and help on improving it. Here is the link to the mozilla source code: https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code. This link does not only give assess to the source code, however it provides a documentation on how to get started on improving the mozilla. 
+
+
 ## 5. Unnið með Git (2. hluti)
 -----------------------------
 
@@ -54,3 +57,4 @@ Vim is a charityware. Its license is GPL-compatible, so it is an open software. 
 
 Git is free software distributed under the terms of the GNU General Public License version 2 (hence it is free and open source). The source code of git could be found here: https://github.com/git/git. Since it is an open source, anyone can join in and help impriving it.
 
+i would also like to mention mozilla. Mozilla is the custodian of the Mozilla Public License ("MPL"), an open source/free software license. Since it is an open source, anyone can access the source code and help on improving it. Here is the link to the mozilla source code: https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code. This link does not only give assess to the source code, however it provides a documentation on how to get started on improving the mozilla.
